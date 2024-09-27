@@ -1,3 +1,2 @@
-# insta-osint
-# insta-osint
-# insta-osint
+# Osint Insta Using Instaloader
+** Install Module instaloader using ``pip install -r requirements.txt``
